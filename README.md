@@ -1,1 +1,1 @@
-# adsverify.github.com
+# adsverify.github.io
